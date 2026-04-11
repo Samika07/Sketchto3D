@@ -15,7 +15,7 @@ from load_data import load_image
 from preprocess import preprocess_image
 from edge_detect import detect_edges
 from coords_extract import extract_coordinates
-from matrix_ops import run_member2_pipeline
+from matrix_member2 import run_member2_pipeline
 
 
 # ─────────────────────────────────────────────
